@@ -2,3 +2,4 @@
 export * from './person.types.js';
 export * from './address.types.js';
 export * from './color.types.js';
+export * from './employee.types.js';

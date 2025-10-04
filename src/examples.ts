@@ -6,9 +6,9 @@ import type { ColorPalette, HexColor, RGBColor } from './types/common/color.type
 
 // Creating instances using imported types
 const employee: Employee = {
+  id: 1,
   name: "John Doe",
   age: 30,
-  employeeId: "EMP001",
   department: "Engineering"
 };
 

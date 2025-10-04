@@ -5,7 +5,7 @@ export interface Person {
 }
 
 // You can extend this with more person-related types
-export interface Employee extends Person {
+export interface PersonEmployee extends Person {
   employeeId: string;
   department: string;
 }
